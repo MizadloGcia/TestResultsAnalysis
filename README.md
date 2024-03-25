@@ -1,9 +1,9 @@
 # TestResultsAnalysis
 
 Code challenge for the position Software Developer in Test (QA)
-Language: C#
-Framework: .Net Framework 4.8
-Type: Console Application
+- Language: C#
+- Framework: .Net Framework 4.8
+- Type: Console Application
 
 This application reads a Json and generates some metrics as a CSV file from the Json data.
 
